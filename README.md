@@ -11,7 +11,7 @@ This is a full stack web application I worked during Fall'23 semester as part of
 
 **Backend**: [Node.js](https://nodejs.org/en), [Express.js](https://expressjs.com/), [Mongoose](https://mongoosejs.com/), [bcrypt](https://www.npmjs.com/package/bcrypt)
 
-**Frontend**: [Vue.js](https://vuejs.org/), axios[https://axios-http.com/], [tailwindcss](https://tailwindcss.com/)
+**Frontend**: [Vue.js](https://vuejs.org/), [axios](https://axios-http.com/), [tailwindcss](https://tailwindcss.com/)
 
 **Database**: [Mongo DB](https://www.mongodb.com/)
 
